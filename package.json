@@ -1,0 +1,12 @@
+{
+  "name": "scrape-by",
+  "version": "0.0.1",
+  "description": "web scraping engine for node",
+  "dependencies": {
+    "q": "~1.0.1",
+    "valid-url": "~1.0.9",
+    "lodash": "~2.4.1",
+    "node-phantom": "~0.2.5",
+    "spooky": "~0.2.4"
+  }
+}
